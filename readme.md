@@ -4,4 +4,4 @@
 - Basic Javascript Drum Kit
 
 
-Thanks to [@wesbos](https://twitter.com/wesbos) and JavaScript30.com[https://Javascript30.com]
+Thanks to [@wesbos](https://twitter.com/wesbos) and [JavaScript30.com](https://JavaScript30.com)
